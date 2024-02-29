@@ -42,4 +42,6 @@ Explore the concept of Progressive Web Apps and learn how to build Angular appli
 
 Delve into Angular Universal to enable server-side rendering for better performance and SEO optimization.
 
+### Module 10: Books
+
 Happy coding with Angular! 🅰️🚀
